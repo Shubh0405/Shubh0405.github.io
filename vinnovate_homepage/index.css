@@ -128,7 +128,7 @@ nav ul li a p:hover{
 
 .parallax{
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   background-image: url("parallax.PNG");
   background-position: center;
   background-size: cover;
